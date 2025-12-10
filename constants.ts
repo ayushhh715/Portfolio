@@ -17,7 +17,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
   { platform: "GitHub", url: "https://github.com/ayushhh715", icon: "github" },
   { platform: "LinkedIn", url: "https://linkedin.com/ayush-arora-b44b48257/", icon: "linkedin" },
   { platform: "LeetCode", url: "https://leetcode.com/ayushhh715/", icon: "leetcode" },
-  { platform: "CodeChef", url: "https://www.codechef.com/users/ayushhh715", icon: "codechef" },
+  { platform: "CodeChef", url: "https://www.codechef.com/users/ayushh08782", icon: "codechef" },
   { platform: "Email", url: `mailto:${PERSONAL_INFO.email}`, icon: "mail" },
 ];
 
